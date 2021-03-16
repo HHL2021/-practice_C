@@ -1,4 +1,6 @@
-/* move zeros */
+/*
+LeetCode: Move Zeroes
+*/
 #include <stdio.h>
 
 int num[]={0,7,3,0,4,0,0,5};
