@@ -1,3 +1,6 @@
+/*
+LeetCode: Jump Game
+*/
 #include <stdio.h>
 
 int num[]={3,2,0,1,4};
