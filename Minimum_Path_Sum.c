@@ -1,5 +1,7 @@
+/*
+LeetCode: Minimum Path Sum
+*/
 #include <stdio.h>
-
 int grid[3][3]={{1,3,1},{1,5,1},{4,2,1}};
 int i,j;
 
