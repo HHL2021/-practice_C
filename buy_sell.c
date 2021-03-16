@@ -1,4 +1,6 @@
-/*buy and sell*/
+/*
+LeetCode: Best Time to Buy and Sell Stock II
+*/
 /*keep only one stock*/
 #include <stdio.h>
 
