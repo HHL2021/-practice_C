@@ -1,4 +1,6 @@
-/* happy number*/
+/* 
+LeetCode: Happy Number
+*/
 /* sum of sqaure of digit*/
 #include <stdio.h>
 int n=989;
