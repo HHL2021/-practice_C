@@ -1,3 +1,9 @@
+/*
+LeetCode: Number of Islands
+*/
+/*
+An island is surrounded by 0 and is formed by connecting adjacent lands horizontally or vertically
+*/
 #include <stdio.h>
 
 int fgrid[4][4] ={{1,1,0,1},{1,0,1,0},{0,1,0,1},{1,1,1,0}};
